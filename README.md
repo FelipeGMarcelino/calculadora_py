@@ -1,0 +1,3 @@
+O programa calculadora_simples.py abre uma interface gráfica de calculadora, com funções simples. Foi utilizada a biblioteca "tkinter" para criar a janela do programa, e as expressões passam por uma verificação de segurança a fim de evitar os perigos de usar a função "eval()".
+
+Foi também criado o programa calculadora_custom.py que utiliza a biblioteca "customtkinter" para trazer customização visual à calculadora (a lógica permanece a mesma).
